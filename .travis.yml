@@ -22,11 +22,12 @@ install:
 - npm install
 before_script:
 - git clone --single-branch -b source https://github.com/mr-cn/blog.git source
-- git clone --single-branch -b static https://github.com/mr-cn/blog.git public
 script:
 - hexo clean
 - hexo generate
-after_script:
+after_success:
+  - git clone --single-branch -b static https://github.com/mr-cn/blog.git static
+  - cp -r -a static/* public
   - cd ./public
   - git init
   - git config user.name "mr"
