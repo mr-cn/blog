@@ -6,6 +6,10 @@ favicon: /Big-ReBuild.svg
 # author headimg
 headimg: /Big-ReBuild.svg
 
+# author info
+name: MR
+description: Stay Hungry,Stay Foolish.
+
 # search
 search: 
     enable: false
