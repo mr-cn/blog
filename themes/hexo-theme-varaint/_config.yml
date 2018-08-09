@@ -1,0 +1,54 @@
+
+
+# site icon
+favicon: /Big-ReBuild.svg
+
+# author headimg
+headimg: /Big-ReBuild.svg
+
+# search
+search: 
+    enable: false
+    placeholder: Enter Key...
+
+# sidebar
+sidebar: 
+  enable: false
+  menus:
+    -
+      name: Weibo
+      link: http://weibo.com/yumemor/
+      target: _blank
+
+# count(统计)
+count:
+  enable: false
+
+# comments
+comments:
+  duoshuo_username:  false
+  #disqus_username: yumemor
+
+# accounts support weibo/github/zhihu/twitter/douban 
+# display to former three
+social: 
+#  -
+#    name: weibo
+#    link: http://weibo.com/yumemor/
+  -
+    name: github
+    link: https://github.com/mr-cn
+  -
+    name: zhihu
+    link: https://www.zhihu.com/people/mrcn
+#  -
+#    name: twitter
+#    link: 
+#  -
+#    name: douban
+#    link: 
+
+
+
+
+
