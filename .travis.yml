@@ -22,6 +22,7 @@ install:
 - npm install
 before_script:
 - git clone --single-branch -b source https://github.com/mr-cn/blog.git source
+- git clone --single-branch -b static https://github.com/mr-cn/blog.git public
 script:
 - hexo clean
 - hexo generate
