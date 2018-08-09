@@ -8,7 +8,7 @@ headimg: /Big-ReBuild.svg
 
 # author info
 name: MR
-description: Stay Hungry,Stay Foolish.
+description: 纵一苇之所如，凌万顷之茫然。
 
 # search
 search: 
@@ -45,9 +45,9 @@ social:
   -
     name: zhihu
     link: https://www.zhihu.com/people/mrcn
-#  -
-#    name: twitter
-#    link: 
+  -
+    name: twitter
+    link: https://twitter.com/mrcnnet
 #  -
 #    name: douban
 #    link: 
