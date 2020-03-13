@@ -40,3 +40,7 @@ git rebase --continue
 ```
 
 Push，搞定。
+
+*由于git的数据结构的特性，从被修改的提交开始到后面的所有提交的hash全部会发生变化。*
+
+*如果在这之前你已经Push了，此时必须使用force-push推送你的更正后的版本避免冲突。（如果有人在你更正前pull过，他push时就会再次发生冲突，所以建议在commit的时候谨慎操作，push后尽量避免force-push）*
