@@ -1,10 +1,10 @@
 
 
 # site icon
-favicon: /Big-ReBuild.svg
+favicon: /2020/02/27/No-Title/Big-ReBuild.svg
 
 # author headimg
-headimg: /Big-ReBuild.svg
+headimg: /2020/02/27/No-Title/Big-ReBuild.svg
 
 # author info
 name: MR
@@ -42,9 +42,9 @@ social:
   -
     name: github
     link: https://github.com/mr-cn
-  -
-    name: zhihu
-    link: https://www.zhihu.com/people/mrcn
+# -
+#   name: zhihu
+#   link: https://www.zhihu.com/people/mrcn
 #  -
 #   name: twitter
 #   link: https://twitter.com/mrcnnet
